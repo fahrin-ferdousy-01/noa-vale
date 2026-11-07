@@ -7,3 +7,7 @@ A cinematic artist portfolio where 3D cards move, rotate, and rearrange to carry
 Built with Three.js, GSAP, ScrollTrigger, Lenis, and custom canvas effects. The final approved page is packaged in index.html with inline libraries, styles, and fonts. Original media loads from commit-pinned public URLs in Sam1983Aing/aura-assets.
 
 GitHub Pages serves the root of the main branch. No build step is needed.
+
+---
+
+Imported from [Sam1983Aing/noa-vale](https://github.com/Sam1983Aing/noa-vale) — original code and attribution preserved.
